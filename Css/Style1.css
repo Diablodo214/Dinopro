@@ -101,6 +101,10 @@ div {
 .Texto1 span {
   color: var(--goldend);
 }
+.lñ{
+    display: flex;
+    justify-content: left;
+}
 @media (max-width: 1200px) {
     div{
         justify-content: center;
